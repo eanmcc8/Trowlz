@@ -9,7 +9,7 @@ import queue
 
 from github3 import login
 
-trowlz_id = "executive"
+trowlz_id = "execoocoo"
 trowlz_config = "config/{}.json".format(trowlz_id)
 data_path = "data/{}/".format(trowlz_id)
 trowlz_modules = []
